@@ -24,9 +24,7 @@
     "strapi-plugin-users-permissions": "3.6.8",
     "strapi-utils": "3.6.8"
   },
-  "author": {
-    "name": "Abraham Yusuf"
-  },
+  "author": "Abraham Yusuf",
   "strapi": {
     "uuid": "5587e0cc-9e72-412c-a6a8-1f920fa7c246"
   },
@@ -34,5 +32,15 @@
     "node": ">=10.16.0 <=14.x.x",
     "npm": "^6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraham-yusuf/api-catatan-abraham-yusuf.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/abraham-yusuf/api-catatan-abraham-yusuf/issues"
+  },
+  "homepage": "https://github.com/abraham-yusuf/api-catatan-abraham-yusuf#readme"
 }
